@@ -12,6 +12,7 @@ public class GymEquipmentManager extends AbsGymEquipmentManager {
    	
 	@Override
 	public void addEquipment() {}
+	
 	@Override
 	public void editEquipmentDetails() {}
 

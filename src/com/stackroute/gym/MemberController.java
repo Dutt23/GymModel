@@ -167,6 +167,7 @@ memberDetails.add(memberEntity.getBodyType());
 memberDetails.add(memberEntity.getAssignedExerciseType());
 memberDetails.add(memberEntity.getAssignedTrainer());
 memberDetails.add(memberEntity.getUserName());
+
 myGym.setMemberDetails(memberDetails);
 }
 

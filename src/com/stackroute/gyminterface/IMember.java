@@ -1,6 +1,7 @@
 package com.stackroute.gyminterface;
 
-public interface IMember {
+public interface IMember 
+{
 
 	void setName(String name);
 	void setWeight(double weight);
@@ -21,5 +22,4 @@ public interface IMember {
 	public String getPassword();
 	public String getUserName();
 	
-
 }
